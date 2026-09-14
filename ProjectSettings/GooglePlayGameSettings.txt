@@ -1,0 +1,11 @@
+lastUpgrade=20100
+proj.pluginVersion=2.1.0
+proj.AppId=837139566229
+and.BundleId=com.alkerg.TapTap
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e837139566229%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.alkerg.TapTap%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+TapsLeaderboard--%3e%0d%0a++%3cstring+name%3d%22leaderboard_tapsleaderboard%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQAg%3c%2fstring%3e%0a++%3c%21--achievement+Get+50+taps--%3e%0d%0a++%3cstring+name%3d%22achievement_get_50_taps%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Get+100+taps--%3e%0d%0a++%3cstring+name%3d%22achievement_get_100_taps%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Get+150+taps--%3e%0d%0a++%3cstring+name%3d%22achievement_get_150_taps%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Get+200+taps--%3e%0d%0a++%3cstring+name%3d%22achievement_get_200_taps%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Get+250+taps--%3e%0d%0a++%3cstring+name%3d%22achievement_get_250_taps%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQCA%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+TapsLeaderboard--%3e%0d%0a++%3cstring+name%3d%22leaderboard_tapsleaderboard%22+translatable%3d%22false%22%3eCgkIlZ2gy64YEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=837139566229-vb7vuot3a19hiafo9scb0d8q9mqcpkk5.apps.googleusercontent.com
+android.SetupDone=true
+App.NearbdServiceId=com.alkerg.TapTap
+android.NearbySetupDone=true
